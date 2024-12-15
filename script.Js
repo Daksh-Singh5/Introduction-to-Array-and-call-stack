@@ -1,9 +1,9 @@
-// var superhero=["spiderman","ironman","flash","superman","captain Amrica","Thor","greenlantern","aquaman","doctor strange","black panther"]
-// document.write(superhero);
-// document.write("<br>");
+var superhero=["spiderman","ironman","flash","superman","captain Amrica","Thor","greenlantern","aquaman","doctor strange","black panther"]
+document.write(superhero);
+document.write("<br>");
 
-// var hero= superhero.pop()
-// document.write(hero);
+var hero= superhero.pop()
+document.write(hero);
 
 function add(a,b,c,d){
     return(a+b);
